@@ -71,4 +71,4 @@ END;
 
 
 ### Result:
-Creating a cursor using SQL/PL has been executed successfully..# Ex-no-6-Creating-Cursors-using-PL-SQL
+Creating a cursor using SQL/PL has been executed successfully.
